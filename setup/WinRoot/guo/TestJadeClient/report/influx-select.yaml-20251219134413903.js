@@ -1,0 +1,1 @@
+window.reportData = {"beginTime":"2025-12-19 13:44:08 848","caseSequence":5,"testAll":1,"testFail":0,"testName":"说明","testPass":1,"testSkip":0,"totalTime":"273 ms","reportDetails":[]};
