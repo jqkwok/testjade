@@ -1,0 +1,27 @@
+[12:00:29.063] [INFO ] org.kwok.cnetty.websocket.WebSocketServer.serverRun(WebSocketServer.java:38) - Service start at 8881
+[12:00:32.617] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:5500加入
+[12:00:46.082] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:5500离开
+[13:42:49.476] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:16105加入
+[13:42:51.981] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:16105离开
+[13:43:08.059] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:16448加入
+[13:43:34.686] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:16448离开
+[13:43:47.891] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:17190加入
+[13:43:50.439] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:17190离开
+[13:44:07.968] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:17590加入
+[13:44:09.221] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:17590离开
+[13:44:13.907] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:17770加入
+[13:44:14.828] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:17770离开
+[13:44:34.073] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:18066加入
+[13:44:37.069] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:18066离开
+[13:44:55.546] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:18496加入
+[13:44:58.555] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:18496离开
+[13:45:34.561] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:19138加入
+[13:45:37.572] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:19138离开
+[13:45:39.542] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:19309加入
+[13:45:40.432] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:19309离开
+[13:45:55.043] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:19556加入
+[13:46:05.547] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:19556离开
+[13:46:15.819] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:19963加入
+[13:46:21.122] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:19963离开
+[13:46:28.739] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerAdded(TextWebSocketFrameHandler.java:65) - Client:/127.0.0.1:20326加入
+[13:46:32.238] [INFO ] org.kwok.cnetty.websocket.TextWebSocketFrameHandler.handlerRemoved(TextWebSocketFrameHandler.java:74) - Client:/127.0.0.1:20326离开
