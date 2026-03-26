@@ -1,6 +1,6 @@
 To test jade requires burning for three full days; to discern timber takes seven years.  
 
-This plugin is the VSCode client extension for the **TestJade** (试玉) automated testing system.  
+This plugin is the VSCode client extension for **TestJade** (试玉) automated testing system.  
 
 # Function Description  
 
